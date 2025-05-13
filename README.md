@@ -68,7 +68,9 @@ RegisterNumber:212224040343
 ![329460454-6958c1cc-55d0-45b0-ae98-f11cf7b425ad](https://github.com/user-attachments/assets/3d81bd0b-2f22-4670-8969-a4ccc41d093a)
 
 **TRUTH TABLE**
+
 ![329460468-1f42bc36-2284-404b-971e-1f7faf07c0fe](https://github.com/user-attachments/assets/760a23c4-98be-4ead-8ae5-ba99b5f13524)
 
 **RESULTS**
+
 Hence a 4 bit synchronous up counter is implemented correctly
